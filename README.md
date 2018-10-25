@@ -29,3 +29,7 @@ ___[UCI](https://archive.ics.uci.edu/ml/datasets/wine+quality) Notes About the D
 - The classes are ordered and not balanced (e.g. there are munch more normal wines than excellent or poor ones). 
 - Outlier detection algorithms could be used to detect the few excellent or poor wines. 
 - Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods. 
+ 
+Download the Wines and the input directories, to get the solution and the data. You  can make a look in the [files](https://github.com/mgmarques/Studies-on-Kaggle/tree/master/Wines), but the python notebook is to long to present it directly in github. 
+
+If you prefer you can see a kernel version on [Kaggle](https://www.kaggle.com/mgmarques/wines-type-and-quality-classification-exercises). The unique diference form this github verusion it is I need remove the XGBC from the staked model, because for some reason it was instably in this Kaggle Kernel, probably a diference from package versions, in my machine I use the newst ones. If you download from here to run in you machine alter de conde to include XGBC into the skaed model and you see a improvement as I stand in my conclusion.
