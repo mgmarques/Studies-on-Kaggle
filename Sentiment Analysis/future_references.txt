@@ -1,0 +1,4 @@
+https://medium.com/@tomyuz/a-sentiment-analysis-approach-to-predicting-stock-returns-d5ca8b75a42
+https://slideplayer.com/slide/3238511/
+https://www.youtube.com/watch?v=jP6Rg13PEkQ
+https://www.kaggle.com/afgonczol/movie-reviews/kernels
